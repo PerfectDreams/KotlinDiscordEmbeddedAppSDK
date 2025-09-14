@@ -14,7 +14,6 @@ repositories {
 kotlin {
     js {
         browser()
-        binaries.executable()
 
         compilerOptions {
             // Enable ES6
